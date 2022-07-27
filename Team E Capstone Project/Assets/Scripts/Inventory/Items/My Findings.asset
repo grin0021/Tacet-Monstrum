@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1939f18137e7d46a7ab412668706a6, type: 3}
+  m_Name: My Findings
+  m_EditorClassIdentifier: 
+  Id: 23
+  UIDisplay: {fileID: 21300000, guid: 8ec3a9f093083854d96412934612190e, type: 3}
+  Type: 5
+  Description: "I have to write this down, it has to be said, it has to be noted
+    down. I am *NOT* crazy.\r\n\r\nPeople are going missing in this damn laboratory,
+    and not a single soul is talking about it. Maybe they\u2019re just too worried
+    to acknowledge it but I can\u2019t stop my curiosity any longer. I have a very,
+    very meticulous schedule and I remember things, I notice change and I take it
+    very seriously. Every single day I eat at the far right table in the mess hall
+    with a friend of mine.\r\n\r\nOne morning, I\u2019m eating at the table and realize
+    my friend is late, so I stall, I sip my coffee and wait. But after an hour he
+    never came. \u201CFine\u201D, I thought, he was probably busy this morning. How
+    wrong I was. My friend never showed up at the table again, and I have not so
+    much as spotted him in well over two weeks now.\r\n\r\nLeft to my own devices
+    while I eat now, I have begun to notice people who also had normal schedules,
+    being at the mess hall at certain times everyday suddenly never showing up again.
+    And the worst part? This all began as soon as that work being done in the lower
+    levels began, them and their secrets, somehow I am beginning to think they are
+    involved\u2026 But I must know for sure.\r\n"
+  RestoreValue: 0
+  AudioClip: {fileID: 0}

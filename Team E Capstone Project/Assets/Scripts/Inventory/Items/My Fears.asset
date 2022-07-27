@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f84161e4a63deea40888152ed1865e6c, type: 3}
+  m_Name: My Fears
+  m_EditorClassIdentifier: 
+  Id: 0
+  UIDisplay: {fileID: 21300000, guid: 47784728263a38249a4a5843b7bf3416, type: 3}
+  Type: 6
+  Description: "If you are listening to this, it is a continuation of a small paper
+    I have begun to write. I fear what I am thinking is too dangerous to describe
+    if somebody finds it.\r\n\r\nI realize what I wrote seems like an Insane statement
+    at first, but let\u2019s pretend for a moment that all goes well in the operation,
+    and you keep all of your personality traits in simply another body. Who are you
+    anymore? Are you still yourself? Or are you now someone else? Now imagine if
+    say\u2026 you were to be transfused instead with\u2026 an animal\u2026 or something
+    even more feral than an animal and you lose your ability to communicate with
+    others.\r\n\r\nAt that point, what if you were \u201Cstill yourself\u201D but
+    completely unable to convince anybody of that truth? Imagine barking, howling,
+    roaring to your heart's content in an attempt to explain yourself only to be
+    brushed off as a savage animal?\r\n\r\nSuch horrors are the things of nightmares
+    that I fear slowly crawl their way into this project and I begin to fear for
+    anyone involved."
+  RestoreValue: 0
+  AudioClip: {fileID: 8300000, guid: bf6ba8bfb076b7c4ea36e1abee4abbca, type: 3}

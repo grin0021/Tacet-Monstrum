@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable Object
+  - Radio
+  - Sanity Loss (test)
+  - PickupObject
+  - Vent
+  - Light
+  - Enemy
+  - Escape
+  - Damage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Environment
+  - Water
+  - UI
+  - Monster
+  - Enemy
+  - PostProcessing
+  - Not in Reflection
+  - Cable
+  - Interaction Interface
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Flashlight
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

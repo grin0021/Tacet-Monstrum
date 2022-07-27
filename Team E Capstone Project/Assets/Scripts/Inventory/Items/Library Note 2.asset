@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1939f18137e7d46a7ab412668706a6, type: 3}
+  m_Name: Library Note 2
+  m_EditorClassIdentifier: 
+  Id: 30
+  UIDisplay: {fileID: 21300000, guid: 8ec3a9f093083854d96412934612190e, type: 3}
+  Type: 5
+  Description: "What makes you, you?\r\n\r\nI pose this question, in relation to
+    our current research because I slowly begin to question how \u201Chumane\u201D
+    we\u2019re really keeping this.\r\n\r\nEveryday, the particles that make up a
+    human being change. In fact, the particles that saw you live and breathe 10 years
+    ago are completely gone. As far as we can see on a molecular level, the you today
+    is completely different from the you 10 years ago. But what if that\u2019s taken
+    a step further? If, for example, you argue that despite you being built on a
+    molecular level isn\u2019t enough to say that you\u2019re not yourself anymore,
+    then what would happen if we were to say\u2026 Take your brain, and switch it
+    out with another?\r\n\r\nThere seem to be scribbles over the following words
+    in the document, and it ends abruptly as a result.\r\n"
+  RestoreValue: 0
+  AudioClip: {fileID: 0}

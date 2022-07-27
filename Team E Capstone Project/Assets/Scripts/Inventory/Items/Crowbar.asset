@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32b3efc2c5a2411419b0e8b9ebe38484, type: 3}
+  m_Name: Crowbar
+  m_EditorClassIdentifier: 
+  Id: 10
+  UIDisplay: {fileID: 21300000, guid: e8a1dfb52572beb40a82992ab823042a, type: 3}
+  Type: 1
+  Description: A heavy duty crowbar that could be used to pry off or open objects
+    that would be impossible by hand.
+  RestoreValue: 0
+  AudioClip: {fileID: 0}

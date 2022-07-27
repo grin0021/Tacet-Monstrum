@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LD_SplashScreen.unity
+    guid: 740d8d656669fcf4e9b5e28c901e7488
+  - enabled: 1
+    path: Assets/Scenes/LD_MainMenu.unity
+    guid: 1653323cc8ac2e24db0ff6b83878c26b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/LD_GameLevel.unity
+    guid: ea5f2911ddbd41446a7dd3e3e9c1ae8f
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 1/LD_Level1_Laundry.unity
+    guid: 00b79deef9edc84468e2bd9f84e3bcc5
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 1/LD_Level1_SargentsQuarters.unity
+    guid: d41edf3ab0bc6764b8a619935980722e
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 1/LD_Level1_Reception.unity
+    guid: 4138ebf3632b1bb43acab8a35f820219
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 1/LD_Level1_PrivateRooms.unity
+    guid: a6a545fe78bcd55418a42c0855e2a800
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 1/LD_Level1_Medbay_RecRoom.unity
+    guid: 60cfabc192e285045b259e31e6b1216b
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 1/LD_Level1_Corridoors.unity
+    guid: 640f88fbb52c7a24e811ed7ce3835f43
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 1/LD_Level1_Cafe.unity
+    guid: 763d06f004acd0b42b587c1c46af049b
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 1/LD_Level1_Baracks.unity
+    guid: 728ded108ec83ec41b5151d7de66432c
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/LD_GamePlay.unity
+    guid: 8b08c029e683d684b8519a14f29ee11d
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/LD_StairCase.unity
+    guid: 72a66e409c4178248a22be2d1408f0cf
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area1.unity
+    guid: ba824c3a2dda6af4daef040d1ef7290a
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area2.unity
+    guid: 8a2fa9e486a6c2c42b7b806fc18f8d70
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area3.unity
+    guid: bfce893ae973fa34cb68522d03af836b
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area4.unity
+    guid: e8663c733fe8fcf448bc6208b724c468
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area5.unity
+    guid: 31a339da173450b4098b8d061b62429a
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area6.unity
+    guid: f0febc180ded87c4f8493f0654e687b5
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area7.unity
+    guid: 1c8399959aa30f3429afd4ed74a53b65
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area8.unity
+    guid: cefb13f1e7140ac47937ab83a6905b82
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area9.unity
+    guid: 4e1fae518d675f44aacf3d7c7f17ddbf
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area10.unity
+    guid: e42303c5af5fed9429861c139b56be64
+  - enabled: 1
+    path: Assets/Scenes/Game Play Scenes/Floor 2/LD_Level2_Area11.unity
+    guid: db549cf1d9f393e469c9cb1c9d674b0a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: c9a97608bc81c4446b4eaef0b9f5ba72, type: 2}

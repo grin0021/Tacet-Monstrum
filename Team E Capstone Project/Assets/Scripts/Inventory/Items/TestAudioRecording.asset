@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f84161e4a63deea40888152ed1865e6c, type: 3}
+  m_Name: TestAudioRecording
+  m_EditorClassIdentifier: 
+  Id: 6
+  UIDisplay: {fileID: 21300000, guid: 47784728263a38249a4a5843b7bf3416, type: 3}
+  Type: 6
+  Description: 'This is a test for the audio recordings.
+
+
+    If you can hear me
+    speaking, then all is working, otherwise... We have a problem.'
+  RestoreValue: 0
+  AudioClip: {fileID: 8300000, guid: 72bdd8b09414c55499ef295eb27f4002, type: 3}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1939f18137e7d46a7ab412668706a6, type: 3}
+  m_Name: Tacet Monstrum Report
+  m_EditorClassIdentifier: 
+  Id: 28
+  UIDisplay: {fileID: 21300000, guid: 8ec3a9f093083854d96412934612190e, type: 3}
+  Type: 5
+  Description: "Project Tacet Monstrum Report - October 10th, 1983\r\n\r\nThe military
+    expects results, and our methods before now have been far too passive. As a result,
+    in our latest team meeting, a unanimous agreement was made to shift Tacet Monstrum
+    into phase 4b as opposed to phase 4a.\r\n\r\nAs a result, we have begun to experiment
+    with the idea of creating our sound eating beast using the foundation of another
+    human being, thus, the increasing number of people being sent to the emergency
+    room. We started small, doing small alterations through brain surgery in an attempt
+    to see if we could control the actions of our subjects and perhaps sedate their
+    desire to leave once we reveal our plans to them (which we have been forced to
+    do, legally. They won't live much longer anyways.)\n\r\nNo progress in that regard,
+    control is an issue we still need to address, but with the technology we put
+    together concerning the audio dampening, and mimicking has come together very
+    well, and through early experimentation we\u2019ve learned that it can be controlled
+    much more effectively using signals from a brain.\r\n\r\nThis progress is not
+    without consequences in the team however, I\u2019ve seen it amongst some of the
+    members. They fear what we are starting to experiment with, but I have no time
+    for fear, only for results. If they pose a problem, I will have them dealt with.
+    I will succeed. This will be my magnum opus.\r\n\r\nDr. Brian Trent\r\n"
+  RestoreValue: 0
+  AudioClip: {fileID: 0}

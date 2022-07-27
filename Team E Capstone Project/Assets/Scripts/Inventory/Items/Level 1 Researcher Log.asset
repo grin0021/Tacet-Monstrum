@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1939f18137e7d46a7ab412668706a6, type: 3}
+  m_Name: Level 1 Researcher Log
+  m_EditorClassIdentifier: 
+  Id: 12
+  UIDisplay: {fileID: 21300000, guid: 8ec3a9f093083854d96412934612190e, type: 3}
+  Type: 5
+  Description: "November 1st, 1983\n\nRenee's really stressed out lately about how
+    much the project has changed from its original state three years ago. \n\nTo
+    be honest, most of the changes have been fully clasified and only top personal
+    are allowed access so I can't know for sure what kind of changes have been made.\n\nBut...
+    If Renee's stressed out about them... Then I've got a really bad feeling."
+  RestoreValue: 0
+  AudioClip: {fileID: 0}

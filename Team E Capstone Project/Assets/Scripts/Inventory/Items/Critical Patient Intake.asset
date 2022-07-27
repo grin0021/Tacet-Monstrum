@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1939f18137e7d46a7ab412668706a6, type: 3}
+  m_Name: Critical Patient Intake
+  m_EditorClassIdentifier: 
+  Id: 26
+  UIDisplay: {fileID: 21300000, guid: 8ec3a9f093083854d96412934612190e, type: 3}
+  Type: 5
+  Description: "Critical Patient Intake as of November 4th, 1983\r\n\r\nJane Hampton
+    - 35 - Female\r\nVictor Cohen - 30 - Male\r\nHaley Baxter - 41 - Female\r\nSarah
+    Gill - 29 - Female\r\n\r\nDoctor\u2019s note:\r\nAll critical patient intake
+    stemmed from the volunteers from the lower levels of the laboratory. All of them
+    shared a very similar, and unusual symptom, whispering to themselves, unable
+    to answer any of the questions we posed concerning both their physical and mental
+    state.\r\n\r\nWe\u2019ve been asked from the higher ups not to pursue any further
+    and as a result, we have administered the grade 5 amnestic sedative to incur
+    severe memory loss and sent them back to the lower levels to resume testing.
+    On a personal note, I\u2019ve never seen the higher ups so desperate for subjects
+    that we would send back patients for further testing but\u2026 I\u2019m in no
+    position to question anything.\r\n"
+  RestoreValue: 0
+  AudioClip: {fileID: 0}

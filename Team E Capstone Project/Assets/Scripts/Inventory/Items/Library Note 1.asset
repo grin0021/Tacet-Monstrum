@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1939f18137e7d46a7ab412668706a6, type: 3}
+  m_Name: Library Note 1
+  m_EditorClassIdentifier: 
+  Id: 29
+  UIDisplay: {fileID: 21300000, guid: 8ec3a9f093083854d96412934612190e, type: 3}
+  Type: 5
+  Description: "Sound and its Meaning, a Comprehensive Pitch Document.\r\n\r\nSound
+    has ever been a sense taken for granted for humanity, but also cherished and
+    loved. A contradiction schismed only by the experience of each individual. Without
+    it, an animal cannot communicate, without it we cannot hear, and as a result
+    we cannot speak. Your emotional expression locked away behind silence.\r\n\r\nThus
+    do I pose this, the removal of sound; weaponized.\r\n\r\nImagine a world where
+    we are able to deploy a mechanism capable of silencing entire battlefields, entire
+    towns and more. Military deployments could occur over entire city blocks, and
+    the residents would be completely in the dark, filled with confusion in the lack
+    of sound. Deployed on a battlefield, invasion forces could be entirely silenced,
+    thus allowing for invasions in the darkness of night in complete silence.\r\n\r\nBelow
+    is a comprehensive analysis of the work that could be involved in such a work.\r\n\r\nContinued
+    is several pages detailing the science and math behind such an endeavor, and
+    reading all of it right now just doesn\u2019t seem possible\r\n"
+  RestoreValue: 0
+  AudioClip: {fileID: 0}
